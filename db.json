@@ -1,0 +1,35 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Spaghetti Bolognese",
+        "ingredients": "Spaghetti, ground beef, tomatoes, onions, garlic, olive oil, salt, pepper",
+        "steps": "1. Boil spaghetti. 2. Sauté onions and garlic in olive oil. 3. Add ground beef and cook until browned. 4. Stir in tomatoes and simmer for 20 minutes. 5. Season with salt and pepper. 6. Serve over spaghetti."
+      },
+      {
+        "id": 2,
+        "name": "Chicken Curry",
+        "ingredients": "Chicken, curry powder, onions, garlic, ginger, coconut milk, tomatoes, cilantro, salt, pepper",
+        "steps": "1. Sauté onions, garlic, and ginger. 2. Add chicken and cook until browned. 3. Stir in curry powder and tomatoes. 4. Pour in coconut milk and simmer for 25 minutes. 5. Garnish with cilantro and serve."
+      },
+      {
+        "id": 3,
+        "name": "Vegetable Stir Fry",
+        "ingredients": "Broccoli, bell peppers, carrots, soy sauce, garlic, ginger, sesame oil, rice",
+        "steps": "1. Cook rice. 2. Stir-fry garlic and ginger in sesame oil. 3. Add vegetables and stir-fry for 5-7 minutes. 4. Pour in soy sauce and cook for another 2 minutes. 5. Serve with rice."
+      },
+      {
+        "id": 4,
+        "name": "Pancakes",
+        "ingredients": "Flour, eggs, milk, sugar, butter, baking powder, salt, vanilla extract",
+        "steps": "1. Mix dry ingredients. 2. Whisk in eggs, milk, and vanilla. 3. Melt butter in a pan. 4. Pour batter into the pan and cook pancakes until golden brown on both sides."
+      },
+      {
+        "id": 5,
+        "name": "Guacamole",
+        "ingredients": "Avocados, lime, cilantro, red onion, tomatoes, salt, pepper",
+        "steps": "1. Mash avocados. 2. Mix in lime juice, cilantro, red onion, and tomatoes. 3. Season with salt and pepper. 4. Serve with tortilla chips."
+      }
+    ]
+  }
+  
